@@ -1,3 +1,4 @@
+![WaveBOYE](https://cdn.discordapp.com/emojis/402604923151187978.gif?v=1)
 ### Hi there 👋
 
 📫 How to reach me: Discord Roki_100#0230
