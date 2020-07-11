@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+📫 How to reach me: Discord Roki_100#0230
+
+🌱 I’m currently learning Python (slowly)
+
+⚡ Fun fact: Im smart
+
+![Bass project](https://cdn.discordapp.com/avatars/590948209925423123/254bb38dd757bf143f5f43c94ab63768.png?size=128)
+
 <!--
 **Roki100/Roki100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
