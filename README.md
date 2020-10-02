@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Python (slowly)
 
-⚡ Fun fact: Im smart
+⚡ Fun fact: Im very smart
 
 ![Bass project](https://cdn.discordapp.com/avatars/590948209925423123/254bb38dd757bf143f5f43c94ab63768.png?size=128)
 
