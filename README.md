@@ -7,7 +7,7 @@
 
 ⚡ Fun fact: Im smart
 
-![Bass project](https://cdn.discordapp.com/avatars/590948209925423123/254bb38dd757bf143f5f43c94ab63768.png?size=128) ![Roki](https://github-readme-stats.vercel.app/api?username=Roki100&theme=highcontrast&show_icons=true&count_private=true&text_color=00ff00&hide_border=true&custom_title=Roki%27s%20Current%20GitHub%20stats%3A)
+![Roki](https://github-readme-stats.vercel.app/api?username=Roki100&theme=highcontrast&show_icons=true&count_private=true&text_color=00ff00&hide_border=true&custom_title=Roki%27s%20Current%20GitHub%20stats%3A) ![Bass project](https://cdn.discordapp.com/avatars/590948209925423123/254bb38dd757bf143f5f43c94ab63768.png?size=128)
 
 <!--
 **Roki100/Roki100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
